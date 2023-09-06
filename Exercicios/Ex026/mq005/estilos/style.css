@@ -49,7 +49,7 @@ menu > ul > li > a {
     text-decoration: none;
     background-color: lightblue;
     color: darkblue;
-    border-top: 2px solid white;
+    border-top: 2px solid lightsteelblue;
 }
 
 menu > ul > li > a:hover {
